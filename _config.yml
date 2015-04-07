@@ -5,9 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Ivan Gavrilovic
 tagline:          Internet Addict, Geek, The Startup Guy
-url:              http://gavra0.github.io/igavrilovic/
+url:              /igavrilovic/
 paginate:         1
-baseurl:          http://gavra0.github.io/igavrilovic/
+baseurl:          /igavrilovic/
 author:
   name:           Ivan Gavrilovic
   url:            https://twitter.com/gavra0
