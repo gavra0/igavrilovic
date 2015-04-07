@@ -3,15 +3,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Ivan Gavrilovic
+tagline:          Internet Addict, Geek, The Startup Guy
+url:              http://igavrilovic.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Ivan Gavrilovic
+  url:            https://twitter.com/gavra0
+  email:          gavra0@gmail.com
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 
 # Custom vars
 version:          1.0.0
