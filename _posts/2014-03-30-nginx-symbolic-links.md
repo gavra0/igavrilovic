@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nginx sites-available &amp; sites-enabled
+comments: True
 ---
 
 Common, and good practice, is to keep Nginx per site configuration in

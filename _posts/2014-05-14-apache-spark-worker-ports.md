@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apache Spark Worker Random Port Usage
+comments: True
 ---
 
 There are pleanty of tutorials how to deploy Spark in different environments e.g. <a href="https://spark.apache.org/docs/latest/ec2-scripts.html">https://spark.apache.org/docs/latest/ec2-scripts.html</a>.
