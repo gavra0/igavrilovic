@@ -5,7 +5,7 @@ Used heavily[Poole](https://github.com/poole/poole) - an awesome Jekyll theme, w
 ## Author
 
 **Ivan Gavrilovic**
-- <https://github.com/gavra0o>
+- <https://github.com/gavra0>
 - <https://twitter.com/gavra0>
 
 
