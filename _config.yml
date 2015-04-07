@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Ivan Gavrilovic
 tagline:          Internet Addict, Geek, The Startup Guy
-url:              http://igavrilovic.com
+url:              http://gavra0.github.io/igavrilovic/
 paginate:         1
 baseurl:          /
 author:
