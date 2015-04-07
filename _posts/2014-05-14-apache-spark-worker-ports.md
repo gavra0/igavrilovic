@@ -1,5 +1,5 @@
 ---
-layouy: post
+layout: post
 title: Apache Spark Worker Random Port Usage
 ---
 
