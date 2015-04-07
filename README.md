@@ -1,6 +1,6 @@
 # My personal website
 
-Used heavily[Poole](https://github.com/poole/poole) - an awesome Jekyll theme, with some minor modification 
+Used heavily [Poole](https://github.com/poole/poole) - an awesome Jekyll theme, with some minor modification 
 
 ## Author
 

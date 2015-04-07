@@ -14,9 +14,9 @@ author:
   email:          gavra0@gmail.com
 
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  About: 'about'
+  Archive: 'archive'
+  Feed: 'atom.xml'
 
 # Custom vars
 version:          1.0.0
